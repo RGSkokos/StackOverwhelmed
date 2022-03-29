@@ -14,7 +14,7 @@ Format: Full name | GitHub name
 # Objective
 Implement a simplified version of Stack Overflow (Q&A website).
 # Description
-Stack Overflow is a platform used to be able to ask or respond to coding questions in a professional matter by programmers.   
+StackOverwhelmed is a platform used to be able to ask or respond to coding questions in a professional matter by programmers.   
 # Core Features
 3 Core Features
 * Asking and answering questions
